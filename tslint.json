@@ -1,0 +1,32 @@
+{
+    "defaultSeverity": "warning",
+    "extends": "tslint:recommended",
+    "rules": {
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "semicolon": [
+            true,
+            "always"
+        ],
+        "indent": [
+            true
+        ],
+        "space-before-function-paren": false,
+        "arrow-parens": false,
+        "ordered-imports": false,
+        "max-line-length": false,
+        "no-console": false,
+        "curly": false,
+        "triple-equals": false,
+        "only-arrow-functions": false,
+        "object-literal-sort-keys": false,
+        "one-line": false
+    },
+    "linterOptions": {
+        "exclude": [
+            "./node_modules/**"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "devicesScreen": {
+      "title": "Device Discovery",
+      "hint_power": "Make sure the devices is powered on.",
+      "hint_enableBT": "Enable bluetooth by pushing BT button on device.",
+      "no_device": "No devices found.",
+      "no_bt": "Bluetooth is disabled.",
+      "no_location": "Location services is disabled."
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}
